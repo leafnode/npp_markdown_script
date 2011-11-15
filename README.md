@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* Python Script for Notepad++ [1]
+* [Python Script for Notepad++](http://npppythonscript.sourceforge.net/)
  
 ## Installation
 
@@ -25,18 +25,14 @@ And above all: use UTF-8 ;)
 
 ## Suggested companion
 
-Markdown syntax highlighting for Notepad++ [2]. Optionally, if you don't use white background, here
-you have highlighting with Monokai theme: [3]
+[Markdown syntax highlighting for Notepad++](https://github.com/thomsmits/markdown_npp).
+Optionally, if you don't use white background, [here](https://github.com/leafnode/markdown_npp)
+you have highlighting with Monokai theme
 
 ## Included libraries
 
-* Python-Markdown [4] (BSD license)
+* [Python-Markdown](https://github.com/waylan/Python-Markdown) (BSD license)
 
 ## License
 
 * BSD (see LICENSE.md)
-
-[1]: http://npppythonscript.sourceforge.net/
-[2]: https://github.com/thomsmits/markdown_npp
-[3]: https://github.com/leafnode/markdown_npp
-[4]: https://github.com/waylan/Python-Markdown
