@@ -36,7 +36,7 @@ you have highlighting with Monokai theme: [3]
 
 * BSD (see LICENSE.md)
 
-[1] http://npppythonscript.sourceforge.net/
-[2] https://github.com/thomsmits/markdown_npp
-[3] https://github.com/leafnode/markdown_npp
-[4] https://github.com/waylan/Python-Markdown
+[1]: http://npppythonscript.sourceforge.net/
+[2]: https://github.com/thomsmits/markdown_npp
+[3]: https://github.com/leafnode/markdown_npp
+[4]: https://github.com/waylan/Python-Markdown
